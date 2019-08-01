@@ -1,0 +1,2 @@
+unity调试，Debug类，Debug.Break()打断点；
+Gizmos类，在scene场景中绘制，图片资源比附放置在Assets/Gizmos文件夹下
