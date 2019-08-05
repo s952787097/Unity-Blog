@@ -1,16 +1,30 @@
-1.unityÑÓÊ±·½·¨InvokeºÍInvokeRepeating
-MonoBehaviourÀïÃæÓĞÁ½¸öÄÚÖÃµÄÑÓÊ±·½·¨
+1.unityå»¶æ—¶æ–¹æ³•Invokeå’ŒInvokeRepeating
+MonoBehaviouré‡Œé¢æœ‰ä¸¤ä¸ªå†…ç½®çš„å»¶æ—¶æ–¹æ³•
 
 Invoke(methodName: string, time: float): void;
-methodName:·½·¨Ãû
-time:¶àÉÙÃëºóÖ´ĞĞ
+methodName:æ–¹æ³•å
+time:å¤šå°‘ç§’åæ‰§è¡Œ
 InvokeRepeating
 InvokeRepeating(methodName: string, time: float, repeatRate: float): void;
-methodName:·½·¨Ãû
-time:¶àÉÙÃëºóÖ´ĞĞ
-repeatRate£ºÖØ¸´Ö´ĞĞ¼ä¸ô
+methodName:æ–¹æ³•å
+time:å¤šå°‘ç§’åæ‰§è¡Œ
+repeatRateï¼šé‡å¤æ‰§è¡Œé—´éš”
 
-»¹ÓĞÁ½¸öÖØÒªµÄ·½·¨£º
+è¿˜æœ‰ä¸¤ä¸ªé‡è¦çš„æ–¹æ³•ï¼š
 
-IsInvoking£ºÓÃÀ´ÅĞ¶ÏÄ³·½·¨ÊÇ·ñ±»ÑÓÊ±£¬¼´½«Ö´ĞĞ
-CancelInvoke£ºÈ¡Ïû¸Ã½Å±¾ÉÏµÄËùÓĞÑÓÊ±·½·¨
+IsInvokingï¼šç”¨æ¥åˆ¤æ–­æŸæ–¹æ³•æ˜¯å¦è¢«å»¶æ—¶ï¼Œå³å°†æ‰§è¡Œ
+CancelInvokeï¼šå–æ¶ˆè¯¥è„šæœ¬ä¸Šçš„æ‰€æœ‰å»¶æ—¶æ–¹æ³•
+
+2.Invokeæ˜¯å»¶æ—¶è°ƒç”¨å‡½æ•°ï¼Œåœ¨ç”¨Invokeå‡½æ•°ä¹‹å‰éœ€è¦å¼•å…¥å‘½åç©ºé—´using UnityEngine.Events;
+
+Invoke("MethodName",2)
+
+è¿™ä¸ªæ¯”è¾ƒç®€å•ï¼Œå†™åœ¨c#è„šæœ¬ä¸­ï¼Œæ„ä¸º ä¸¤ç§’ä¹‹åè°ƒç”¨ä¸€æ¬¡ï¼ŒMethodNameæ–¹æ³•ã€‚
+
+InvokeRepeating("MethodName",1,2)
+
+è¿™ä¸ªæ–¹æ³•å°±æ˜¯å¤šæ¬¡è°ƒç”¨Invokeï¼Œå³ç†è§£ä¸ºä¸€ç§’åï¼Œæ¯éš”ä¸¤ç§’è°ƒç”¨MethodNameæ–¹æ³•ã€‚
+
+CancelInvoke("MethodName")
+
+å–æ¶ˆMethodNameæ–¹æ³•çš„è°ƒç”¨ã€‚
