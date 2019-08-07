@@ -35,4 +35,8 @@
     每秒一个单位：transform.Translate(1*Time.deltaTime,0,0);
                   每秒一个单位就乘上 Time.delatTime;
     每帧一个单位：transform.Translate(1,0,0);
+    
+4.Time.time 当前帧的开始时间，这个时间是相对于程序开始的时间，所以在start函数里获取时这个值通常0；
+
+5.如果需要获取系统时间，则需要用到C#提供的System.Date类的一些静态属性；
 
