@@ -1,5 +1,5 @@
-1.Time.timeScale
-    传递时间的缩放。这可以用于减慢运动效果。
+### 1.Time.timeScale
+    传递时间的缩放（相对于真实世界的时间，比如timeScale 0.5，那么真实世界6s，游戏世界计时3s）。这可以用于减慢运动效果。
         当timeScale传递时间1.0时和实时时间一样快。当timeScale传递时间0.5时比实时时间慢一半。
 	当timeScale传递时间为0时游戏基本上暂停了，如果你的所有函数是和帧速率无关的。
     除了realtimeSinceStartup，timeScale影响所有时间和增量时间基于Time类的变量。
@@ -10,10 +10,10 @@
      timeScale不影响Update和LateUpdate，会影响FixedUpdate
      timeScale不影响Time.realtimeSinceStartup，会影响Time.timeSinceLevelLoad和Time.time
      timeScale不影响Time.fixedDeltaTime和Time.unscaleDeltaTime，会影响Time.deltaTime
+     
  
   
-
-    Unity3D的Time.timeScale
+#### Unity3D的Time.timeScale
    （1）Time.timeScale = 0可以暂停游戏，Time.timeScale = 1恢复正常，但这是作用于整个游戏的设置，不单单是当前场景，记得在需要的时候重置回Time.timeScale = 1。当然也可以使用Time.timeScale来做游戏的1倍、2倍整体加速。
 
    （2）timeScale影响的因素：
@@ -26,17 +26,20 @@
     （3）如果游戏暂停以后想在暂停界面上继续播放一些不受Time.timeScale 影响的动画或者粒子特效之类的，那么我们就需要用到         Time.realtimeSinceStartup去单独恢复他们，还有声音部分也需要单独恢复timeScale。
     （4）以前看到一种实现暂停的方法是放弃Time.deltaTime，自己实现两个函数：OnPauseGame和 OnResumeGame。这种方法扩展性强，缺点是写起来可能比较繁琐
 
-2.Time.realtimeSinceStartup
+### 2.Time.realtimeSinceStartup
     以秒计，自游戏开始的实时时间（只读）
 	realtimeSinceStartup返回时间自由行开始，不被Time.timeScale影响。即使被玩家暂停realtimeSinceStartup也将保持增加（在后台）。当你想通过设置Time.timeScale为0暂停游戏时，使用realtimeSinceStartup是很有用的，但仍希望能够以某种方式来计算时间。即使场景退出后重新加载，也不受影响。
 
-3.Time.deltaTime
+### 3.Time.deltaTime
     每秒一个单位的效果和每帧一个单位的效果实现
     每秒一个单位：transform.Translate(1*Time.deltaTime,0,0);
                   每秒一个单位就乘上 Time.delatTime;
     每帧一个单位：transform.Translate(1,0,0);
     
-4.Time.time 当前帧的开始时间，这个时间是相对于程序开始的时间，所以在start函数里获取时这个值通常0；
+### 4.Time.time 当前帧的开始时间，这个时间是相对于程序开始的时间，所以在start函数里获取时这个值通常0；
+    Time.time受timeScale的影响，比如真实世界里0s-6s，而在游戏世界里将2s-4s的timeScale设置为0.5，那么在真实世界6s的时间点游戏世界为5s；
+#### Time.time和Time.realTimeSinceSetup的区别
+    Time.time受时间影响，如果游戏需要暂停，也就是将Time.timeScale设为0，这个时候我们需要游戏停止计时，或者需要设置Time.timeScale 0.1f,需要游戏的时间很慢，这个时候就需要使用Time.time；如果需要忽略暂停，忽略时间减缓而要采用真实时间，则要用Time.realTimeSinceSetup；
 
-5.如果需要获取系统时间，则需要用到C#提供的System.Date类的一些静态属性；
+### 5.如果需要获取系统时间，则需要用到C#提供的System.Date类的一些静态属性；
 
