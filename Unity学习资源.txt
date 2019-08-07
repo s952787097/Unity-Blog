@@ -1,158 +1,160 @@
-ÆÆ½â½Ì³Ì £º http://www.ceeger.com/forum/read.php?tid=23396&fid=8
+## å­¦ä¹ èµ„æº
 
-»ù´¡½Ì³Ì
-¡¾01¡¿Unity3DÁã»ù´¡ÈëÃÅ  Á´½Ó£º http://pan.baidu.com/s/1bMGhSM  ÃÜÂë£ºksd1
-¡¾02¡¿Unity3D¸ß¼¶½ø½×½Ì³Ì Á´½Ó£º http://pan.baidu.com/s/1bo5JdKz  ÃÜÂë£ºmcna
-¡¾03¡¿Unity3DÓÎÏ·±à³ÌÓïÑÔ Á´½Ó£º http://pan.baidu.com/s/1i44QRFv  ÃÜÂë£ºk87q
-¡¾04¡¿Unity3DÓÎÏ·¿ª·¢ÊµÕ½ÏîÄ¿ Á´½Ó£º https://pan.baidu.com/s/1nvFiwLN  ÃÜÂë£ºhgjf
+ç ´è§£æ•™ç¨‹ ï¼š http://www.ceeger.com/forum/read.php?tid=23396&fid=8
 
-¡¾²å¼şºÍshaderÊÓÆµ½Ì³Ì¡¿
-UIÉè¼Æ			 Á´½Ó£ºhttp://pan.baidu.com/s/1mhUDTwc ÃÜÂë£º7vub			
-NGUI 4.0		 Á´½Ó£ºhttp://pan.baidu.com/s/1bp4Ob87 ÃÜÂë£ºpons
-UGUI 5.0 		 Á´½Ó£ºhttp://pan.baidu.com/s/1i5Cd2b7 ÃÜÂë£º0m70
-Shaer 			 Á´½Ó£ºhttp://pan.baidu.com/s/1boTAu8v ÃÜÂë£ºbicg
+åŸºç¡€æ•™ç¨‹
+ã€01ã€‘Unity3Dé›¶åŸºç¡€å…¥é—¨  é“¾æ¥ï¼š http://pan.baidu.com/s/1bMGhSM  å¯†ç ï¼šksd1
+ã€02ã€‘Unity3Dé«˜çº§è¿›é˜¶æ•™ç¨‹ é“¾æ¥ï¼š http://pan.baidu.com/s/1bo5JdKz  å¯†ç ï¼šmcna
+ã€03ã€‘Unity3Dæ¸¸æˆç¼–ç¨‹è¯­è¨€ é“¾æ¥ï¼š http://pan.baidu.com/s/1i44QRFv  å¯†ç ï¼šk87q
+ã€04ã€‘Unity3Dæ¸¸æˆå¼€å‘å®æˆ˜é¡¹ç›® é“¾æ¥ï¼š https://pan.baidu.com/s/1nvFiwLN  å¯†ç ï¼šhgjf
 
-¡¾ÊÓÆµ¡¿+¡¾Ô´Âë¡¿
-ÃØÃÜĞĞ¶¯£¨Ç±ÈëÀà£©	 Á´½Ó£ºhttp://pan.baidu.com/s/1bp0KrSV ÃÜÂë£º1ys9
-±£ÎÀÂÜ²·£¨75¿ÎÊ±£©	 Á´½Ó£ºhttp://pan.baidu.com/s/1slFkWVV ÃÜÂë£ºbt0i
-3dº£Õ½ 			 Á´½Ó£ºhttp://pan.baidu.com/s/1jIahDQm ÃÜÂë£ºvear
-unet¶àÈËÁª»úÓÎÏ·£¨5.3£©  Á´½Ó£ºhttp://pan.baidu.com/s/1hshDtVA ÃÜÂë£º5epn
-Ç¿ÁªÍøMMOPRG¸ñ¶·Ö®Íõ	 Á´½Ó£ºhttp://pan.baidu.com/s/1qYfvm5e ÃÜÂë£º4z7h
-ÌÓÀëµØÇò£¨ÅÜ¿áÀà£©	 Á´½Ó£ºhttp://pan.baidu.com/s/1qYwqgXY ÃÜÂë£º1ydf
-Ğ¡Ê®´«Ææ		 Á´½Ó£ºhttp://pan.baidu.com/s/1jI1mayi ÃÜÂë£ºfn6x
-Ó¢ĞÛÁªÃË		 Á´½Ó£ºhttp://pan.baidu.com/s/1eS8LD6a ÃÜÂë£º3lss
+ã€æ’ä»¶å’Œshaderè§†é¢‘æ•™ç¨‹ã€‘
+UIè®¾è®¡			 é“¾æ¥ï¼šhttp://pan.baidu.com/s/1mhUDTwc å¯†ç ï¼š7vub			
+NGUI 4.0		 é“¾æ¥ï¼šhttp://pan.baidu.com/s/1bp4Ob87 å¯†ç ï¼špons
+UGUI 5.0 		 é“¾æ¥ï¼šhttp://pan.baidu.com/s/1i5Cd2b7 å¯†ç ï¼š0m70
+Shaer 			 é“¾æ¥ï¼šhttp://pan.baidu.com/s/1boTAu8v å¯†ç ï¼šbicg
 
-¡¾Ø¬ÃÎÉäÊÖÔÚÏß¡¿
+ã€è§†é¢‘ã€‘+ã€æºç ã€‘
+ç§˜å¯†è¡ŒåŠ¨ï¼ˆæ½œå…¥ç±»ï¼‰	 é“¾æ¥ï¼šhttp://pan.baidu.com/s/1bp0KrSV å¯†ç ï¼š1ys9
+ä¿å«èåœï¼ˆ75è¯¾æ—¶ï¼‰	 é“¾æ¥ï¼šhttp://pan.baidu.com/s/1slFkWVV å¯†ç ï¼šbt0i
+3dæµ·æˆ˜ 			 é“¾æ¥ï¼šhttp://pan.baidu.com/s/1jIahDQm å¯†ç ï¼švear
+unetå¤šäººè”æœºæ¸¸æˆï¼ˆ5.3ï¼‰  é“¾æ¥ï¼šhttp://pan.baidu.com/s/1hshDtVA å¯†ç ï¼š5epn
+å¼ºè”ç½‘MMOPRGæ ¼æ–—ä¹‹ç‹	 é“¾æ¥ï¼šhttp://pan.baidu.com/s/1qYfvm5e å¯†ç ï¼š4z7h
+é€ƒç¦»åœ°çƒï¼ˆè·‘é…·ç±»ï¼‰	 é“¾æ¥ï¼šhttp://pan.baidu.com/s/1qYwqgXY å¯†ç ï¼š1ydf
+å°åä¼ å¥‡		 é“¾æ¥ï¼šhttp://pan.baidu.com/s/1jI1mayi å¯†ç ï¼šfn6x
+è‹±é›„è”ç›Ÿ		 é“¾æ¥ï¼šhttp://pan.baidu.com/s/1eS8LD6a å¯†ç ï¼š3lss
+
+ã€å™©æ¢¦å°„æ‰‹åœ¨çº¿ã€‘
 https://www.bilibili.com/video/av3924410/
 
-¡¾Ô´Âë¡¿
-Ìì¿ÕºĞ×Ó×ÊÔ´		 		http://pan.baidu.com/s/1gfnJ4LP
-75¸öunity 3dĞİÏĞĞ¡ÓÎÏ·Ô´ÎÄ¼şc 		http://pan.baidu.com/s/1i5rdmYD  ÃÜÂë£º14cg
-´óĞÍÓÎÏ·ÏîÄ¿Ô´Âë 			http://pan.baidu.com/s/1mhAY0WS    ÃÜÂë£ºpqyk	
-kbengine+unity3dÇòÇò´ó×÷Õ½demoÔ´Âë 	https://github.com/u3dkbe/kbengine_unity3d_balls
-(Ó¢ÎÄ)Unity3d¸ß¼¶½Ì³Ì_¸ßÇå_2D³¬¼¶ÂêÀö+3D³¬¼¶ÂíÀï°Â+ÏîÄ¿¹¤³Ì(3.3G) ÍêÕûÏîÄ¿Ô´Âë+ÊÓÆµ½Ì³Ì    http://pan.baidu.com/s/1dDgPfTf 
+ã€æºç ã€‘
+å¤©ç©ºç›’å­èµ„æº		 		http://pan.baidu.com/s/1gfnJ4LP
+75ä¸ªunity 3dä¼‘é—²å°æ¸¸æˆæºæ–‡ä»¶c 		http://pan.baidu.com/s/1i5rdmYD  å¯†ç ï¼š14cg
+å¤§å‹æ¸¸æˆé¡¹ç›®æºç  			http://pan.baidu.com/s/1mhAY0WS    å¯†ç ï¼špqyk	
+kbengine+unity3dçƒçƒå¤§ä½œæˆ˜demoæºç  	https://github.com/u3dkbe/kbengine_unity3d_balls
+(è‹±æ–‡)Unity3dé«˜çº§æ•™ç¨‹_é«˜æ¸…_2Dè¶…çº§ç›ä¸½+3Dè¶…çº§é©¬é‡Œå¥¥+é¡¹ç›®å·¥ç¨‹(3.3G) å®Œæ•´é¡¹ç›®æºç +è§†é¢‘æ•™ç¨‹    http://pan.baidu.com/s/1dDgPfTf 
 
 
 
-Unity3D VR ½Ì³Ì£º3.VRÖĞµÄ½»»¥	http://pan.baidu.com/s/1eSJv2Mm		a54p
-ÈçºÎÎªGearVR´´½¨ĞéÄâÏÖÊµÂşÓÎ 	http://www.manew.com/thread-106857-1-1.html
+Unity3D VR æ•™ç¨‹ï¼š3.VRä¸­çš„äº¤äº’	http://pan.baidu.com/s/1eSJv2Mm		a54p
+å¦‚ä½•ä¸ºGearVRåˆ›å»ºè™šæ‹Ÿç°å®æ¼«æ¸¸ 	http://www.manew.com/thread-106857-1-1.html
 http://blog.csdn.net/sherlockchang/article/details/51336901
 
 
-¡¾²å¼şÇåµ¥¡¿ 
-2D_Toolkit_1.51     ¶¯»­¿ª·¢²å¼ş°ü 
-FingerGestures           ´¥Ãş²å¼ş 
-ORK_Okashi_RPG_Kit       Unity3D½ÇÉ«°çÑİÓÎÏ·¿ª·¢¹¤¾ß°ü 
-uScript-Visual-Scripting-Tool-for-UnityEasyMotion2D       ½Å±¾²å¼ş 
-Playmaker_1.21                    ¿ÉÊÓ»¯±à³Ì²å¼ş 
+ã€æ’ä»¶æ¸…å•ã€‘ 
+2D_Toolkit_1.51     åŠ¨ç”»å¼€å‘æ’ä»¶åŒ… 
+FingerGestures           è§¦æ‘¸æ’ä»¶ 
+ORK_Okashi_RPG_Kit       Unity3Dè§’è‰²æ‰®æ¼”æ¸¸æˆå¼€å‘å·¥å…·åŒ… 
+uScript-Visual-Scripting-Tool-for-UnityEasyMotion2D       è„šæœ¬æ’ä»¶ 
+Playmaker_1.21                    å¯è§†åŒ–ç¼–ç¨‹æ’ä»¶ 
 RageSpline 
 EZ GUI 2 
-GlyphDesigner 142            ×ÖÌå²å¼ş 
-megafiers.unitypackage        ±äĞÎ²å¼ş£¬¶Ô¸÷ÖÖÎïÌåÈÎÒâ±äĞÎ 
-Unisky 1.2.6                      Ìì¿Õ²å¼ş£¬·½±ãµÄÄ£Äâ¸÷ÖÖÌìÆø 
-UnityScriptEditor               ½Å±¾²å¼ş£¬·½±ãÖÇÄÜµÄ±à¼­½Å±¾ 
+GlyphDesigner 142            å­—ä½“æ’ä»¶ 
+megafiers.unitypackage        å˜å½¢æ’ä»¶ï¼Œå¯¹å„ç§ç‰©ä½“ä»»æ„å˜å½¢ 
+Unisky 1.2.6                      å¤©ç©ºæ’ä»¶ï¼Œæ–¹ä¾¿çš„æ¨¡æ‹Ÿå„ç§å¤©æ°” 
+UnityScriptEditor               è„šæœ¬æ’ä»¶ï¼Œæ–¹ä¾¿æ™ºèƒ½çš„ç¼–è¾‘è„šæœ¬ 
 cave-run-3d-unity-game-starter-kit 
-EasyRoads3Dv1.8.1.unitypackage      Ñ°Â·²å¼ş 
-chipoff-fracture-system           ÆÆËéÌØĞ§²å¼ş 
-Enhanced Editor++ v2.1.unitypackage   ±à¼­ÔöÇ¿²å¼ş 
-GameCenter Plugin v1.2.unitypackage   Á´½Óµ½iphoneÓÎÏ·ÖĞĞÄµÄ²å¼ş 
-igui                      GUI²å¼ş 
-iTween-Visual-Editor        ¶¯»­²å¼ş 
-MessageManager_1.1.1        ÏûÏ¢²å¼ş 
-particle-system-collection    Á£×ÓĞ§¹û²å¼ş 
-Dynamic Elements FX Pack      ÖøÃûµÄĞ§¹û²å¼ş 
-FX's+Collection            ¸÷ÖÖÌØĞ§µÄ¼¯ºÏ£¬°üÀ¨ÆÙ²¼£¬ÓêÑ©£¬ÂäÒ¶µÈµÈ40¶à¸öÌØĞ§ 
-Unity Shooter Engine  £¨Unity3D£©U.S.E.Éä»÷ÓÎÏ·ÒıÇæ V1.7 
-RoadPathTool v1.1;RiverTool v1.1            Ñ°Â·²å¼ş 
-SwipeControl.unitypackage                   »¬¶¯ÆÁÄ»²å¼ş 
+EasyRoads3Dv1.8.1.unitypackage      å¯»è·¯æ’ä»¶ 
+chipoff-fracture-system           ç ´ç¢ç‰¹æ•ˆæ’ä»¶ 
+Enhanced Editor++ v2.1.unitypackage   ç¼–è¾‘å¢å¼ºæ’ä»¶ 
+GameCenter Plugin v1.2.unitypackage   é“¾æ¥åˆ°iphoneæ¸¸æˆä¸­å¿ƒçš„æ’ä»¶ 
+igui                      GUIæ’ä»¶ 
+iTween-Visual-Editor        åŠ¨ç”»æ’ä»¶ 
+MessageManager_1.1.1        æ¶ˆæ¯æ’ä»¶ 
+particle-system-collection    ç²’å­æ•ˆæœæ’ä»¶ 
+Dynamic Elements FX Pack      è‘—åçš„æ•ˆæœæ’ä»¶ 
+FX's+Collection            å„ç§ç‰¹æ•ˆçš„é›†åˆï¼ŒåŒ…æ‹¬ç€‘å¸ƒï¼Œé›¨é›ªï¼Œè½å¶ç­‰ç­‰40å¤šä¸ªç‰¹æ•ˆ 
+Unity Shooter Engine  ï¼ˆUnity3Dï¼‰U.S.E.å°„å‡»æ¸¸æˆå¼•æ“ V1.7 
+RoadPathTool v1.1;RiverTool v1.1            å¯»è·¯æ’ä»¶ 
+SwipeControl.unitypackage                   æ»‘åŠ¨å±å¹•æ’ä»¶ 
 FPS_Kit_for_3.0.unitypackage         
-City Damage.zip                           ³ÇÊĞÌ×¼ş 
-MagicalEffects.unitypackage                Ä§»ÃÌØĞ§²å¼ş£¬Ä£Äâ¸÷ÖÖºÃ¿´µÄĞ§¹û 
-Sprite manager.rar                          ¶¯»­²å¼ş 
-Bitmap2Material.zip                           ²ÄÖÊÌùÍ¼²å¼ş 
-substance_designer_2_0_0.rar                     ²ÄÖÊ²å¼ş 
-Hard Surface Shaders Free and Pro .rar   Ó²±íÃæ×ÅÉ«Æ÷²ÄÖÊ²å¼ş£¬¸÷ÖÖ²ÄÖÊÇáËÉ±íÏÖ 
-ngui 1.82                      ÏÂÒ»´úµÄgui²å¼ş£¬±ÈiguiµÈºÃ 
-TerrainToolkit              µØĞÎ×ÊÔ´£¬°üÀ¨¸÷ÖÖÊ÷Ä¾µÈµÈ 
-Ian S Explosion Pack        ±¬Õ¨ÌØĞ§²å¼ş£¬Ä£Äâ¸÷ÖÖ±¬Õ¨Ğ§¹û 
-TimelineFX.              Ê±¹âÁ£×Ó±à¼­Æ÷     ¿ÉÒÔ±à¼­³ö¸÷ÖÖÁ£×ÓĞ§¹û 
-Prime31_StoreKit_for_iPhone   ÖøÃûµÄ¹ã¸æ²å¼ş 
-Chickens Shader Bundle  shader°ü£¬°üÀ¨¸÷ÖÖ²ÄÖÊshader 
-shatter toolkitÇĞÎ÷¹Ï²å¼ş 
+City Damage.zip                           åŸå¸‚å¥—ä»¶ 
+MagicalEffects.unitypackage                é­”å¹»ç‰¹æ•ˆæ’ä»¶ï¼Œæ¨¡æ‹Ÿå„ç§å¥½çœ‹çš„æ•ˆæœ 
+Sprite manager.rar                          åŠ¨ç”»æ’ä»¶ 
+Bitmap2Material.zip                           æè´¨è´´å›¾æ’ä»¶ 
+substance_designer_2_0_0.rar                     æè´¨æ’ä»¶ 
+Hard Surface Shaders Free and Pro .rar   ç¡¬è¡¨é¢ç€è‰²å™¨æè´¨æ’ä»¶ï¼Œå„ç§æè´¨è½»æ¾è¡¨ç° 
+ngui 1.82                      ä¸‹ä¸€ä»£çš„guiæ’ä»¶ï¼Œæ¯”iguiç­‰å¥½ 
+TerrainToolkit              åœ°å½¢èµ„æºï¼ŒåŒ…æ‹¬å„ç§æ ‘æœ¨ç­‰ç­‰ 
+Ian S Explosion Pack        çˆ†ç‚¸ç‰¹æ•ˆæ’ä»¶ï¼Œæ¨¡æ‹Ÿå„ç§çˆ†ç‚¸æ•ˆæœ 
+TimelineFX.              æ—¶å…‰ç²’å­ç¼–è¾‘å™¨     å¯ä»¥ç¼–è¾‘å‡ºå„ç§ç²’å­æ•ˆæœ 
+Prime31_StoreKit_for_iPhone   è‘—åçš„å¹¿å‘Šæ’ä»¶ 
+Chickens Shader Bundle  shaderåŒ…ï¼ŒåŒ…æ‹¬å„ç§æè´¨shader 
+shatter toolkitåˆ‡è¥¿ç“œæ’ä»¶ 
 QuestIt 
-match3starter   ¿ÉÒÔ·½±ãµÄÖÆ×÷¸÷ÖÖÓÎÏ· 
-easy unity3d timer   Ê±ÖÓ²å¼ş 
+match3starter   å¯ä»¥æ–¹ä¾¿çš„åˆ¶ä½œå„ç§æ¸¸æˆ 
+easy unity3d timer   æ—¶é’Ÿæ’ä»¶ 
 dungeon construction kit 
-characterkit-csharp2 ½ÇÉ«ÓÎÏ·²å¼ş 
+characterkit-csharp2 è§’è‰²æ¸¸æˆæ’ä»¶ 
 GUIstyle 
 Enemies.unitypackage 
 Buoyancy toolkit.unitypackage 
-camera splat effects   ¾µÍ·ÌØĞ§²å¼ş 
-cp morphing lab    ÈËÌå±äĞÎ²å¼ş 
-easy destructible wall    Ä£ÄâÇ½µ¹ËúµÄ²å¼ş 
+camera splat effects   é•œå¤´ç‰¹æ•ˆæ’ä»¶ 
+cp morphing lab    äººä½“å˜å½¢æ’ä»¶ 
+easy destructible wall    æ¨¡æ‹Ÿå¢™å€’å¡Œçš„æ’ä»¶ 
 mesh impack damage 
-shatter toolkit   ÖøÃûµÄÇĞÎ÷¹Ï²å¼ş£¬¿ÉÖÆ×÷Ë®¹ûÈÌÕßÓÎÏ· 
-Ngui 1.65       ÖøÃûµÄgui×îĞÂ°æ 
-hard shaders pro Ó²±íÃæ²ÄÖÊ²å¼ş×¨Òµ°æ 
-energfx           ÄÜÁ¿ÌØĞ§²å¼ş 
-edys vehicle physics ³µÁ¾ÓÎÏ·²å¼ş 
+shatter toolkit   è‘—åçš„åˆ‡è¥¿ç“œæ’ä»¶ï¼Œå¯åˆ¶ä½œæ°´æœå¿è€…æ¸¸æˆ 
+Ngui 1.65       è‘—åçš„guiæœ€æ–°ç‰ˆ 
+hard shaders pro ç¡¬è¡¨é¢æè´¨æ’ä»¶ä¸“ä¸šç‰ˆ 
+energfx           èƒ½é‡ç‰¹æ•ˆæ’ä»¶ 
+edys vehicle physics è½¦è¾†æ¸¸æˆæ’ä»¶ 
 etcetera.unitypackage 
-uscript ¿ÉÊÓ»¯±à³Ì²å¼ş 
+uscript å¯è§†åŒ–ç¼–ç¨‹æ’ä»¶ 
 Landscapes+part+1.unitypackage 
 Landscapes+part+2.unitypackage 
 skybox-blue-nebula 
 skybox-set-01 
 EZ Game Saver.unityPackage 
 unity dialogue editor 
-prime31 ÖøÃûµÄ²å¼ş 
-Tom TerrianTool µØĞÎ±à¼­²å¼ş 
-3d anaglyph system  3dºìÂÌ²å¼ş 
-InventoryManager-js-cs  ±³°üÏµÍ³²å¼ş 
-soccertoolkit ×ãÇò²å¼ş 
-strumpyshadereditor ²Ä±à¼­ÖÊ²å¼ş 
-amplify shader manager  ²ÄÖÊ²å¼ş 
-unity external lightmapping toolÍâ²¿µÆ¹â²å¼ş 
-VectrosityÏòÁ¿»®Ïß¹¤¾ß 
-Mobile Movie Texture ÒÆ¶¯Éè±¸ÊÓÆµÌùÍ¼ÈÃÄúÇáËÉÊ¹ÓÃUnityÔÚÒÆ¶¯Éè±¸ÉÏ²¥·ÅÊÓÆµ 
+prime31 è‘—åçš„æ’ä»¶ 
+Tom TerrianTool åœ°å½¢ç¼–è¾‘æ’ä»¶ 
+3d anaglyph system  3dçº¢ç»¿æ’ä»¶ 
+InventoryManager-js-cs  èƒŒåŒ…ç³»ç»Ÿæ’ä»¶ 
+soccertoolkit è¶³çƒæ’ä»¶ 
+strumpyshadereditor æç¼–è¾‘è´¨æ’ä»¶ 
+amplify shader manager  æè´¨æ’ä»¶ 
+unity external lightmapping toolå¤–éƒ¨ç¯å…‰æ’ä»¶ 
+Vectrosityå‘é‡åˆ’çº¿å·¥å…· 
+Mobile Movie Texture ç§»åŠ¨è®¾å¤‡è§†é¢‘è´´å›¾è®©æ‚¨è½»æ¾ä½¿ç”¨Unityåœ¨ç§»åŠ¨è®¾å¤‡ä¸Šæ’­æ”¾è§†é¢‘ 
 ActionsHUD 
-Cartoon Clouds ¿¨Í¨°×ÔÆ 
+Cartoon Clouds å¡é€šç™½äº‘ 
 HOTweenEditor_v0.2.101 
-ÈËÎïÄ£ĞÍ02-ÌùÍ¼£¬¹Ç÷À£¬ĞĞ×ß¶¯»­.unitypackage 
-¾µÏñ·´Éä×ÅÉ«Æ÷ Mirror Reflection shader 
-»ğ¼ıµ¯ÓëÑÌ»ğ±¬Õ¨×ÊÔ´ 
-¸ß¹âÌùÍ¼shader 
-·É´¬Ä£ĞÍ´øÌùÍ¼.unitypackage 
-¶ş²ã·¿ÎİÊÒÄÚÊ¾ÀıHouse of the Future example 
-±¬Õ¨Ğ§¹û Detonator ¨C Explosions for Unity3D 
-unity3d´«Ææ±ùÅØÏøÄ§·¨Ğ§¹û 
+äººç‰©æ¨¡å‹02-è´´å›¾ï¼Œéª¨éª¼ï¼Œè¡Œèµ°åŠ¨ç”».unitypackage 
+é•œåƒåå°„ç€è‰²å™¨ Mirror Reflection shader 
+ç«ç®­å¼¹ä¸çƒŸç«çˆ†ç‚¸èµ„æº 
+é«˜å…‰è´´å›¾shader 
+é£èˆ¹æ¨¡å‹å¸¦è´´å›¾.unitypackage 
+äºŒå±‚æˆ¿å±‹å®¤å†…ç¤ºä¾‹House of the Future example 
+çˆ†ç‚¸æ•ˆæœ Detonator â€“ Explosions for Unity3D 
+unity3dä¼ å¥‡å†°å’†å“®é­”æ³•æ•ˆæœ 
 Score Effect Script 
-Roidz Unity Custom Inputmanager v1.4×Ô¶¨ÒåÊäÈë¹ÜÀíÆ÷ 
+Roidz Unity Custom Inputmanager v1.4è‡ªå®šä¹‰è¾“å…¥ç®¡ç†å™¨ 
 Battlefield 
-Camera Splat Effects ¾µÍ·½¦°ßĞ§¹û 
-Car Physics Æû³µÎïÀíÒıÇæ°ü 
-Fuz(Ã«·¢)shader 
-Head Look Controller ¨CÍ·²¿×ªÏò¿ØÖÆ.unitypackage 
-JCar Unity3D¿ª·¢µÄ¼òµ¥Èü³µÓÎÏ· 
-Qualcomm AR ¨CÔöÇ¿Êµ¾³¹¤¾ß.unitypackage 
-Rope BETA 4.0 Á´×ÓÉş×Ó½Å±¾Ê¾Àı 
-¡¶Ä§ÊŞÊÀ½ç¡·½ÇÉ«¿ØÖÆ.unitypackage 
-·´Ïò¹Ø½Ú¹¤¾ß.unitypackage 
-Ä¿Ç°Ğ¡ÓÎÏ·Á÷ĞĞµÄ¹Ø¿¨ÏµÍ³ 
-Ïàµ±²»´íµÄÍêÕûµÄRPGÔ´´úÂë.unitypackage 
-ÑªÒº·É½¦ÌØĞ§Blood Splatter FX 
-3rd Pesron Shooter Kit µÚÈıÈË³ÆÉä»÷ÓÎÏ·°ü 
-AI 4 Enemies ÈË¹¤ÖÇÄÜ.unitypackage 
-AI_4_Enemies½Ì³Ì. 
-Asylum ±ÜÄÑËù£¬ÓÎÏ·ÊÒÄÚ³¡¾°ÏîÄ¿×ÊÔ´ 
-RTS ¼´Ê±Õ½ÂÔÓÎÏ·Ô­ĞÍ 
-Ximista the Warrior £¨Unity3DÖÆ×÷µÄ2DÓÎÏ·£©[º¬ÏîÄ¿Ô´Âë] 
-¡¾Unity°æMineCraft¡¿ºÜÓĞÒâË¼µÄÒ»¸öÏîÄ¿Ê¾Àı 
-Ò»¸ö¼òµ¥ĞĞ×ß¿ØÖÆ×ÊÔ´°ü 
-´´½¨ÏñEvac CityµÄÓÎÏ· 
-Çå·ç·¿³µÌØĞ§ÑİÊ¾²ÄÖÊ¹âĞ§¶¯»­ AirStream - Substance£¨º¬Ô´Âë°ü.unitypackage 
-·Ç³£²»´íµÄshader°üRNM_Shaders 
+Camera Splat Effects é•œå¤´æº…æ–‘æ•ˆæœ 
+Car Physics æ±½è½¦ç‰©ç†å¼•æ“åŒ… 
+Fuz(æ¯›å‘)shader 
+Head Look Controller â€“å¤´éƒ¨è½¬å‘æ§åˆ¶.unitypackage 
+JCar Unity3Då¼€å‘çš„ç®€å•èµ›è½¦æ¸¸æˆ 
+Qualcomm AR â€“å¢å¼ºå®å¢ƒå·¥å…·.unitypackage 
+Rope BETA 4.0 é“¾å­ç»³å­è„šæœ¬ç¤ºä¾‹ 
+ã€Šé­”å…½ä¸–ç•Œã€‹è§’è‰²æ§åˆ¶.unitypackage 
+åå‘å…³èŠ‚å·¥å…·.unitypackage 
+ç›®å‰å°æ¸¸æˆæµè¡Œçš„å…³å¡ç³»ç»Ÿ 
+ç›¸å½“ä¸é”™çš„å®Œæ•´çš„RPGæºä»£ç .unitypackage 
+è¡€æ¶²é£æº…ç‰¹æ•ˆBlood Splatter FX 
+3rd Pesron Shooter Kit ç¬¬ä¸‰äººç§°å°„å‡»æ¸¸æˆåŒ… 
+AI 4 Enemies äººå·¥æ™ºèƒ½.unitypackage 
+AI_4_Enemiesæ•™ç¨‹. 
+Asylum é¿éš¾æ‰€ï¼Œæ¸¸æˆå®¤å†…åœºæ™¯é¡¹ç›®èµ„æº 
+RTS å³æ—¶æˆ˜ç•¥æ¸¸æˆåŸå‹ 
+Ximista the Warrior ï¼ˆUnity3Dåˆ¶ä½œçš„2Dæ¸¸æˆï¼‰[å«é¡¹ç›®æºç ] 
+ã€Unityç‰ˆMineCraftã€‘å¾ˆæœ‰æ„æ€çš„ä¸€ä¸ªé¡¹ç›®ç¤ºä¾‹ 
+ä¸€ä¸ªç®€å•è¡Œèµ°æ§åˆ¶èµ„æºåŒ… 
+åˆ›å»ºåƒEvac Cityçš„æ¸¸æˆ 
+æ¸…é£æˆ¿è½¦ç‰¹æ•ˆæ¼”ç¤ºæè´¨å…‰æ•ˆåŠ¨ç”» AirStream - Substanceï¼ˆå«æºç åŒ….unitypackage 
+éå¸¸ä¸é”™çš„shaderåŒ…RNM_Shaders 
 
-Unity3D 200¸ö²å¼ş
+Unity3D 200ä¸ªæ’ä»¶
   
 3rd Person CamKit for iPhone 
 Air Side-Scroller 
@@ -182,50 +184,50 @@ lavarocks.unitypackage
 Teleporter 
 Tropical Pack 
 TexturePacker 
-[Ê¾ÀıÔ´Âë]Multi TouchesDemo.unitypackage 
-Pocket RPG Weapon Trails ÎäÆ÷ÍÏÎ²Ğ§¹û.unitypackage 
+[ç¤ºä¾‹æºç ]Multi TouchesDemo.unitypackage 
+Pocket RPG Weapon Trails æ­¦å™¨æ‹–å°¾æ•ˆæœ.unitypackage 
 Typewriter Speech Bubble 
 uScript_Beta_13 
 XPand+Game+Prototype 
-Bootcamp ¹Ù·½Ê¾Àıµ¥»ú°æºÍPhotonÍøÂç°æ 
-Forced Landing Ì«¿Õ·É´¬ÆÈ½µÓÎÏ·Ô´Âë 
-UnityAwesomium ÓÎÏ·ÖĞä¯ÀÀÍøÒ³ 
-Forest Ground - É­ÁÖµØĞÎÌùÍ¼.unitypackage 
+Bootcamp å®˜æ–¹ç¤ºä¾‹å•æœºç‰ˆå’ŒPhotonç½‘ç»œç‰ˆ 
+Forced Landing å¤ªç©ºé£èˆ¹è¿«é™æ¸¸æˆæºç  
+UnityAwesomium æ¸¸æˆä¸­æµè§ˆç½‘é¡µ 
+Forest Ground - æ£®æ—åœ°å½¢è´´å›¾.unitypackage 
   
 Unitycar 
-BrainBuilder±àĞ´ÓÎÏ·ÎŞĞè´úÂë.unitypackage 
-×Ô¶¨Òå½ÇÉ«»»É« 
+BrainBuilderç¼–å†™æ¸¸æˆæ— éœ€ä»£ç .unitypackage 
+è‡ªå®šä¹‰è§’è‰²æ¢è‰² 
 Extra_GUI_Skins 
 lavarocks.unitypackage 
 mouselookdb.unitypackage 
-Unity3DÄ£ÄâÖÆ×÷ÔÉÊ¯Ï®»÷µØÃæ»òÕßÅÚµ¯ÂäµØ³É¿ÓµÄĞ§¹û 
+Unity3Dæ¨¡æ‹Ÿåˆ¶ä½œé™¨çŸ³è¢­å‡»åœ°é¢æˆ–è€…ç‚®å¼¹è½åœ°æˆå‘çš„æ•ˆæœ 
 Tazman-Audio.Fabric.v1.22f.unitypackage 
-TerrainEdgeµØĞÎ°ü 
+TerrainEdgeåœ°å½¢åŒ… 
 tower_Defense.unitypackage 
-Unity3DÖĞÊµÏÖ¼òµ¥µÄµçÓ°Ä£Ê½¿ò¼Ü 
+Unity3Dä¸­å®ç°ç®€å•çš„ç”µå½±æ¨¡å¼æ¡†æ¶ 
 Edit UV.unitypackage 
-µØĞÎÊ¾ÀıÏîÄ¿£¬»ğÉ½ºÍÄ¥·¿ 
-³¡¾°¹ÜÀí£¬Ä£ĞÍÓÅ»¯ 
-µØĞÎÒõÓ°ºæ±º 
-Ê÷Ä¾¹ÜÀíÆ÷Ğ¡²å¼ş.unitypackage 
+åœ°å½¢ç¤ºä¾‹é¡¹ç›®ï¼Œç«å±±å’Œç£¨æˆ¿ 
+åœºæ™¯ç®¡ç†ï¼Œæ¨¡å‹ä¼˜åŒ– 
+åœ°å½¢é˜´å½±çƒ˜ç„™ 
+æ ‘æœ¨ç®¡ç†å™¨å°æ’ä»¶.unitypackage 
 CloudsToy v1.2 
-FX Camera Systems£¨FXÏà»úÏµÍ³£© 
-µ¼³ömaxÄ£ĞÍÎª½Å±¾ÎÄ¼şµÄ²å¼ş 
-·´Éä½¥±ä°ü 
-¿ÉÒÔ¿ØÖÆÍ¸Ã÷µÄshader 
-Ë«Ãæ+Í¸Ã÷Í¨µÀ+NormalMap+LightingMap+½ÓÊÕÓ°×ÓĞÅÏ¢shader 
-ÎÄ±¾×ªÓïÒô 
-ÖÇÄÜ¹¤¾ßÀ©Õ¹ 
-Unity3D Ladders Example Project¾üÊÂ³¡¾°Ê¾Àı£¬ÓĞÅÀÂ¥ÌİĞ§¹û 
-RollTheBallºÜºÃµÄ3dÓÎÏ· 
-Shadow Gun-----ÎåĞÇ¼¶ÓÎÏ·Ô´ÎÄ¼ş 
-Bumper Boats ÅöÅö´¬ÏîÄ¿Ô´Âë 
+FX Camera Systemsï¼ˆFXç›¸æœºç³»ç»Ÿï¼‰ 
+å¯¼å‡ºmaxæ¨¡å‹ä¸ºè„šæœ¬æ–‡ä»¶çš„æ’ä»¶ 
+åå°„æ¸å˜åŒ… 
+å¯ä»¥æ§åˆ¶é€æ˜çš„shader 
+åŒé¢+é€æ˜é€šé“+NormalMap+LightingMap+æ¥æ”¶å½±å­ä¿¡æ¯shader 
+æ–‡æœ¬è½¬è¯­éŸ³ 
+æ™ºèƒ½å·¥å…·æ‰©å±• 
+Unity3D Ladders Example Projectå†›äº‹åœºæ™¯ç¤ºä¾‹ï¼Œæœ‰çˆ¬æ¥¼æ¢¯æ•ˆæœ 
+RollTheBallå¾ˆå¥½çš„3dæ¸¸æˆ 
+Shadow Gun-----äº”æ˜Ÿçº§æ¸¸æˆæºæ–‡ä»¶ 
+Bumper Boats ç¢°ç¢°èˆ¹é¡¹ç›®æºç  
 Behave.unitypackage 
-Asset StoreÉÏµÄC# gameÊ¾Àı.unitypackage 
-Press_TildaÓÎÏ·Ô´Âë 
-NGUI³£ÓÃ3500ÖĞÎÄ×ÖÌå 
-ShowSize ÏÔÊ¾¶ÔÏó´óĞ¡ ObjectSize 
-PacManCloneÓÎÏ·Ô´Âë 
+Asset Storeä¸Šçš„C# gameç¤ºä¾‹.unitypackage 
+Press_Tildaæ¸¸æˆæºç  
+NGUIå¸¸ç”¨3500ä¸­æ–‡å­—ä½“ 
+ShowSize æ˜¾ç¤ºå¯¹è±¡å¤§å° ObjectSize 
+PacManCloneæ¸¸æˆæºç  
 cutsceneeditor0.1.unitypackage 
 unity_annosoft_demo.unitypackage 
 
