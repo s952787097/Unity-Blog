@@ -18,8 +18,9 @@
 
    （2）timeScale影响的因素：
 
-        设置Time.timeScale = 0 将会暂停所有和帧率无关的事情。这些主要是指所有的物理事件和依赖时间的函数、刚体力和速度等，而且FixedUpdate会受到影响，会被暂停（不是Update）,即timeScale =0 时将不会调用FixedUpdate函数了。
-        但是，Update和LateUpdate函数本身的执行是不会受Time.timeScale的影响的。Update是依赖你的机器的，它的调用次数和你的机        器渲染一样快慢（一些特殊情况除外）；性能高的机器，帧率高，Update函数执行次数也就多。因此，当使用Time.timeScale = 0        时，所有和时间有关的事情都被暂停了。因为Time.timeScale为0时，Time.deltaTime将为0。这意味着，如果你使用        Time.deltaTime来控制旋转和位移等，那么Time.timeScale = 0也将使这些物体停止运动。所以游戏看起来是被冻结了，但是，我        们的游戏仍在渲染，也就是说Update函数仍在执行。
+        设置Time.timeScale = 0 将会暂停所有和帧率无关的事情。这些主要是指所有的物理事件和依赖时间的函数、刚体力和速度等，而且FixedUpdate会受到
+	响，会被暂停（不是Update）,即timeScale =0 时将不会调用FixedUpdate函数了。
+        但是，Update和LateUpdate函数本身的执行是不会受Time.timeScale的影响的。Update是依赖你的机器的，它的调用次数和你的机器渲染一样快慢	（一些特殊情况除外）；性能高的机器，帧率高，Update函数执行次数也就多。因此，当使用Time.timeScale = 0 时，所有和时间有关的事情都被暂停了。因为Time.timeScale为0时，Time.deltaTime将为0。这意味着，如果你使用Time.deltaTime来控制旋转和位移等，那么Time.timeScale = 0也将使这些物体停止运动。所以游戏看起来是被冻结了，但是，我们的游戏仍在渲染，也就是说Update函数仍在执行。
 
         所以Update和LateUpdate这两个方法里面需要自己用代码控制，且可以设定某些地方不会暂停（比如UI动画），弊端是如果想暂停，所有动画相关都要与Time.deltaTime这个字段绑定。
 
