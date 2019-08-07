@@ -39,9 +39,8 @@
 ### 4.Time.time 当前帧的开始时间，这个时间是相对于程序开始的时间，所以在start函数里获取时这个值通常0；
     Time.time受timeScale的影响，比如真实世界里0s-6s，而在游戏世界里将2s-4s的timeScale设置为0.5，那么在真实世界6s的时间点游戏世界为5s；
 #### Time.time和Time.realTimeSinceSetup的区别
-    1111<br>111
-    Time.time受时间影响，如果游戏需要暂停，也就是将Time.timeScale设为0，这个时候我们需要游戏停止计时，或者需要设置Time.timeScale 0.1f,
-    需要游戏的时间很慢，这个时候就需要使用Time.time；如果需要忽略暂停，忽略时间减缓而要采用真实时间，则要用Time.realTimeSinceSetup；
+    <p>Time.time受时间影响，如果游戏需要暂停，也就是将Time.timeScale设为0，这个时候我们需要游戏停止计时，或者需要设置Time.timeScale 0.1f,
+    需要游戏的时间很慢，这个时候就需要使用Time.time；如果需要忽略暂停，忽略时间减缓而要采用真实时间，则要用Time.realTimeSinceSetup；</p>
 
 ### 5.如果需要获取系统时间，则需要用到C#提供的System.Date类的一些静态属性；
 
