@@ -1,13 +1,13 @@
 ### 1.Time.timeScale
     传递时间的缩放（相对于真实世界的时间，比如timeScale 0.5，那么真实世界6s，游戏世界计时3s）。这可以用于减慢运动效果。
         当timeScale传递时间1.0时和实时时间一样快。当timeScale传递时间0.5时比实时时间慢一半。
-	当timeScale传递时间为0时游戏基本上暂停了，如果你的所有函数是和帧速率无关的。
+	当timeScale传递时间为0时游戏基本上暂停了，只要你的函数用到了基于时间类的变量。
     除了realtimeSinceStartup，timeScale影响所有时间和增量时间基于Time类的变量。
 
     FixedUpdate functions will not be called when timeScale is set to zero.
     当timescale设置为0时，FixedUpdate函数将不会被调用。
 
-     timeScale不影响Update和LateUpdate，会影响FixedUpdate
+     timeScale不影响Update和LateUpdate，会影响FixedUpdate，因为update的执行与时间无关；
      timeScale不影响Time.realtimeSinceStartup，会影响Time.timeSinceLevelLoad和Time.time
      timeScale不影响Time.fixedDeltaTime和Time.unscaleDeltaTime，会影响Time.deltaTime
      
